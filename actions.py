@@ -3,7 +3,7 @@ import time
 
 
 # ── lista dostępnych akcji (to samo co w prompcie dla Gemmy) ──────────────────
-ACTIONS = """
+ACTIONS = "" "
 click(id)                  – kliknij element o podanym id
 type(id, text)             – wpisz tekst w pole o podanym id
 scroll(direction)          – przewiń stronę: direction = "up" lub "down"
